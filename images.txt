@@ -1,4 +1,4 @@
-portainer/portainer:lts
+portainer/portainer-ce:lts
 xiaoyaliu/alist
 linuxserver/firefox
 syncthing/syncthing
