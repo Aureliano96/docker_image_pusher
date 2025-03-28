@@ -4,6 +4,6 @@ linuxserver/firefox
 syncthing/syncthing
 syncthing/discosrv
 syncthing/relaysrv
-reids
+redis
 amilys/embyserver
 nyanmisaka/jellyfin
