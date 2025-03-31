@@ -26,3 +26,4 @@ silentwind0/kvmd
 devfox101/mt-photos-insightface-unofficial
 mtphotos/mt-photos
 mtphotos/mt-photos-ai:latest
+linuxserver/qbittorrent:latest
