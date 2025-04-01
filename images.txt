@@ -29,4 +29,4 @@ mtphotos/mt-photos-ai:latest
 superng6/qbittorrentee:latest
 youshandefeiyang/allinone
 dpanel/dpanel:latest 
-dzhuang/tinymediamanager:3.1.5
+dzhuang/tinymediamanager:v3
