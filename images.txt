@@ -30,3 +30,4 @@ superng6/qbittorrentee:latest
 youshandefeiyang/allinone
 dpanel/dpanel:latest 
 dzhuang/tinymediamanager:v3
+jxxghp/moviepilot-v2:latest
